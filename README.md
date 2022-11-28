@@ -2,6 +2,7 @@
 
 open terminal 
 npx create-react-app ./
+
 y
 
 npm i react-accessible-accordion
